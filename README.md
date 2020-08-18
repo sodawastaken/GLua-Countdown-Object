@@ -7,3 +7,5 @@ Located in spawnmenu entities, Other tab
 made by snapple and minato
 
 Feel free to use it! This was my first beginner project
+
+NEED HELP WITH: Starting the timer when entity is spawned rather than when the player joins the server.
